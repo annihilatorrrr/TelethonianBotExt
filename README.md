@@ -1,3 +1,7 @@
+Moved to https://codeberg.org/Lonami/TelethonianBotExt. The GitHub repository may be deleted in the future.
+
+---
+
 # TelethonianBotExt
 
 Extensions for [Telethon's personal bot](https://github.com/LonamiWebs/Telethon/blob/v1/telethon_examples/assistant.py).
